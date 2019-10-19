@@ -58,6 +58,8 @@ rocket_str = """
 
 print("Miaaauuu!")
 
+print("Hola esclavos!")
+
 print(cat_str)
 
 print(rocket_str)
